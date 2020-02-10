@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="60px" viewBox="0 0 52 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>magento</title>
+    <desc>Created with Sketch.</desc>
+    <g id="FME-Version-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FME-Home-Desktop" transform="translate(-772.000000, -5095.000000)" fill-rule="nonzero">
+            <g id="partners" transform="translate(0.000000, 5055.000000)">
+                <g id="magento" transform="translate(772.550000, 40.000000)">
+                    <path d="M44.24985,48.41925 L44.24985,19.5 L25.5,7.919175 L6.750075,19.5 L6.750075,48.41925 L0,44.249925 L0,15.749925 L25.5,0 L51,15.749925 L51,44.249925 L44.24985,48.41925 Z M21.75,51.684 L25.5,53.999925 L29.249925,51.684 L29.249925,18.1545 L37.5,23.25 L37.5,46.5882 L37.5,51.749925 L37.5,52.588275 L25.5,60 L13.500075,52.588275 L13.500075,51.749925 L13.500075,46.5882 L13.500075,23.25 L21.75,18.1545 L21.75,51.684 Z" id="Shape" fill="#A3A3A3"></path>
+                    <path d="M44.24985,19.50015 L25.5,7.919175 L6.75,19.50015 L6.75,19.522125 L0,15.75015 L25.5,0 L51,15.75015 L44.24985,19.522125 L44.24985,19.50015 Z M37.5,23.2941 L29.249925,27.90435 L29.249925,18.154275 L37.5,23.25015 L37.5,23.2941 Z M21.75,27.90435 L13.500075,23.2941 L13.500075,23.25015 L21.75,18.154275 L21.75,27.90435 Z" id="Highlight" fill="#B9B9B9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
