@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="635px" height="880px" viewBox="0 0 635 880" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>bg shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="FME-Version-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FME-Home-Desktop" transform="translate(-805.000000, -1155.000000)" fill="#FAFAFA">
+            <path d="M1163.93453,1993.70842 C1009.62088,1927.53537 922.103806,1864.65947 870.925179,1794.23591 C819.746553,1723.81235 805,1629.6835 805,1589.10154 C805,1548.51957 818.933782,1455.94591 868.390605,1389.29047 C917.847428,1322.63503 906.964397,1307.05095 1092.95913,1203 C1216.95562,1133.6327 1335.30258,1139.6327 1448,1221 L1440,2020.00693 C1358.83213,2046.58996 1266.8103,2037.82379 1163.93453,1993.70842 Z" id="bg-shape"></path>
+        </g>
+    </g>
+</svg>
