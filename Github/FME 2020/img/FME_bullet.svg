@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5B1074" offset="0%"></stop>
+            <stop stop-color="#ED264D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="FME-New-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FME-Page-Desktop" transform="translate(-39.000000, -475.000000)" stroke="url(#linearGradient-1)" stroke-width="2">
+            <g id="content" transform="translate(39.000000, 160.000000)">
+                <g id="service" transform="translate(0.000000, 313.000000)">
+                    <circle id="Oval" cx="7" cy="9" r="6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

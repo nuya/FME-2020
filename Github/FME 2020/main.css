@@ -424,10 +424,10 @@ a.page_active:after {
   content: '';
   position: absolute;
   width: calc(100% + 1rem);
-  height: 0.3rem;
+  height: 0.15rem;
   background: #ED264D;
   left: -.5rem;
-  top: 0.45rem;
+  top: 0.4rem;
   z-index: -1;
 }
 
@@ -1366,6 +1366,28 @@ a.page_active:after {
   background-repeat: no-repeat;
   background-position: right;
   background-size: 600px;
+}
+
+.page-section-1 {
+  padding-left: 10%;
+  padding-right: 10%;
+  overflow: hidden;
+  margin-bottom: 10rem;
+  background: #fafafa;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 420px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-section-2 {
+  padding-left: 10%;
+  overflow: hidden;
+  margin-bottom: 10rem;
 }
 
 .home-section-grid {
@@ -4801,8 +4823,8 @@ a[role=button] {
 }
 
 .box {
-  width: 28rem;
-  height: 28rem;
+  width: 26.65vw;
+  height: 26.65vw;
   margin: 0;
   background-color: #f7f7f7;
   display: inline-block;
@@ -4986,4 +5008,28 @@ button.studio-btn {
     0% { opacity: 1; }
     50% { opacity: 0; }
     100% { opacity: 1; }
+}
+
+/* Social Top */
+
+.social-top {
+  display: block;
+  list-style: none;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-start;
+  position: absolute;
+  left: -8vw;
+  bottom: -120px;
+}
+
+.social-top li {
+  margin-top: 20px;
+}
+
+/* Custom Bullet */
+
+li .fme-bullet {
+   background-image: url(./img/FME_bullet.svg) no-repeat;
+   /*list-style-type: none;*/
 }
